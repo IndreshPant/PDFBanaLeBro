@@ -4,7 +4,7 @@
 
 PDFBanaLeBro is a discord bot using for PDF utility.
 This bot was made because some professors were too lazy to send PDF notes
-
+especially the Faculty of EP And Em.
 The purpose of this bot is to convert sent images to PDF and send them to discord chat.
 
 * Commands start with PreCommand (set to "soja." in modules)
